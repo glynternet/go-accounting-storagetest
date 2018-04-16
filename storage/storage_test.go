@@ -1,4 +1,4 @@
-package accountingtest
+package storage
 
 import "github.com/glynternet/go-accounting-storage"
 
